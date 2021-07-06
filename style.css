@@ -12,6 +12,9 @@ h1 {
   color: EF6C00;
 }
 
+.item {
+  text-align: center;
+}
 .item h2 {
   font-size: 32px;
   color: white;
