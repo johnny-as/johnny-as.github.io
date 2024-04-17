@@ -13,4 +13,12 @@
 }
 #menu-johnny:hover {
             opacity: 50%;
-          }
+            }
+
+#btn-close{
+            text-color: white;
+            }
+
+            h4 {
+                font-family: "Oswald", sans-serif;
+            }
