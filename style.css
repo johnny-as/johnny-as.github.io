@@ -1,38 +1,16 @@
-h1, 
-h2, 
-h3, 
-p {
-  font-family: "Helvetica", sans-serif;
+#nickname {
+    text-decoration: none;
+    color: black;
+    font-family: "Oswald", sans-serif;
+    font-size: 20px;
 }
+#nickname:hover {
+            color: red;
+          }
 
-h1 {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
-  text-align: center;
-  font-size: 100px;
-  color: EF6C00;
+#menu-johnny {
+    color: black;
 }
-
-.item {
-  text-align: center;
-}
-.item h2 {
-  font-size: 32px;
-  color: white;
-}
-
-.price {
-  font-weight: bold;
-  color: blue;
-}
-
-#brush {
-  background-color: mediumspringgreen;
-}
-
-#frame {
-  background-color: lightcoral;
-}
-
-#paint {
-  background-color: skyblue;
-}
+#menu-johnny:hover {
+            opacity: 50%;
+          }
