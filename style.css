@@ -19,6 +19,19 @@
             text-color: white;
             }
 
-            h4 {
-                font-family: "Oswald", sans-serif;
-            }
+h5 {
+    font-family: "Oswald", sans-serif;
+}
+
+h1 {
+    font-family: "Oswald", sans-serif;
+    font-size: 100px;
+}
+
+#corrijame{
+    text-decoration: none;
+}
+
+p{
+    font-family: "Abel", sans-serif;
+}
